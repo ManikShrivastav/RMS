@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(228,35): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(270,35): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(647,34): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(871,23): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(1145,23): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(1173,23): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(1230,23): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(115): warning C4715: 'delete_r': not all control paths return a value
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(130): warning C4715: 'edit': not all control paths return a value
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(671): warning C4715: 'admindesign::viewtrain': not all control paths return a value
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(289): warning C4715: 'uDesign::tseats': not all control paths return a value
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(253): warning C4715: 'uDesign::trains': not all control paths return a value
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(638): warning C4715: 'admindesign::deletetrain': not all control paths return a value
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(436): warning C4715: 'admindesign::addtrain': not all control paths return a value
+C:\Users\DELL\Desktop\Railways Management\Nepal Railways\Nepal Railways\main.cpp(612): warning C4715: 'admindesign::edittrain': not all control paths return a value
+  All 211 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Nepal Railways.vcxproj -> C:\Users\DELL\Desktop\Railways Management\Nepal Railways\x64\Release\Nepal Railways.exe
