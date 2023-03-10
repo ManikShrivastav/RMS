@@ -6,7 +6,7 @@ The steps to implement to Setup this application is mentioned below:
 Step 1: Download the latest version of the application from the official repository of RMS and extract it. (https://github.com/ManikShrivastav/RMS)
 
 Step 2: Download XAMPP from the following link and install it.
-	(apachefriends.org/download.html)
+	(https://apachefriends.org/download.html)
 
 Step 3: Download db_nepalrailways.sql file from the official repository of RMS.
 
